@@ -1,4 +1,4 @@
-# Go using Unix Domain Socket
+# Using Unix Domain Socket in Go
 
 ## Testing
 
